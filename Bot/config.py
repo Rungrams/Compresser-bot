@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005
+# (c) @rungram
 
 from bot.get_cfg import get_config
 
